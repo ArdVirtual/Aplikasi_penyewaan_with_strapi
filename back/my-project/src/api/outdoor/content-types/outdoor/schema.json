@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "outdoors",
+  "info": {
+    "singularName": "outdoor",
+    "pluralName": "outdoors",
+    "displayName": "Outdoor",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "namabarang": {
+      "type": "string"
+    },
+    "jenis": {
+      "type": "text"
+    },
+    "harga": {
+      "type": "integer"
+    }
+  }
+}
